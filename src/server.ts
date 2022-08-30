@@ -13,7 +13,7 @@
 // limitations under the License.
 
 
-import { AuthleteApiFactory } from 'https://deno.land/x/authlete_deno@v1.2.6/mod.ts';
+import { AuthleteApiFactory } from 'https://deno.land/x/authlete_deno@v1.2.9/mod.ts';
 import { Application, Router } from 'https://deno.land/x/oak@v10.2.0/mod.ts';
 import { Session } from 'https://deno.land/x/oak_sessions@v3.2.5/mod.ts';
 import { adapterFactory, engineFactory, viewEngine } from 'https://deno.land/x/view_engine@v1.5.0/mod.ts';

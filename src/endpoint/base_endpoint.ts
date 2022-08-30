@@ -13,7 +13,7 @@
 // limitations under the License.
 
 
-import { AuthleteApi } from 'https://deno.land/x/authlete_deno@v1.2.6/mod.ts';
+import { AuthleteApi } from 'https://deno.land/x/authlete_deno@v1.2.9/mod.ts';
 
 
 /**
