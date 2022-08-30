@@ -13,7 +13,7 @@
 // limitations under the License.
 
 
-import { NoInteractionHandlerSpi } from 'https://deno.land/x/authlete_deno_oak@v1.0.1/mod.ts';
+import { NoInteractionHandlerSpi } from 'https://deno.land/x/authlete_deno_oak@v1.0.2/mod.ts';
 import { AuthorizationRequestHandlerSpiImpl } from './authorization_request_handler_spi_impl.ts';
 
 

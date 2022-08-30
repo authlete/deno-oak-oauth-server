@@ -15,7 +15,7 @@
 
 import {
     AuthorizationDecisionHandler, badRequest, getFormParameters
-} from 'https://deno.land/x/authlete_deno_oak@v1.0.1/mod.ts';
+} from 'https://deno.land/x/authlete_deno_oak@v1.0.2/mod.ts';
 import { Context } from 'https://deno.land/x/oak@v10.2.0/mod.ts';
 import { UserDao } from '../db/user_dao.ts';
 import { AuthorizationDecisionHandlerSpiImpl } from '../impl/authorization_decision_handler_spi_impl.ts';
