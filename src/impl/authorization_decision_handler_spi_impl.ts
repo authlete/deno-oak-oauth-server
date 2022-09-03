@@ -13,7 +13,7 @@
 // limitations under the License.
 
 
-import { AuthorizationDecisionHandlerSpi } from 'https://deno.land/x/authlete_deno_oak@v1.0.2/mod.ts';
+import { AuthorizationDecisionHandlerSpi } from 'https://deno.land/x/authlete_deno_oak@v1.0.3/mod.ts';
 import { UserEntity } from '../db/user_entity.ts';
 import { AuthorizationRequestHandlerSpiImpl } from './authorization_request_handler_spi_impl.ts';
 

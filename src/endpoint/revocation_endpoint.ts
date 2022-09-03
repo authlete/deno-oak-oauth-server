@@ -13,7 +13,7 @@
 // limitations under the License.
 
 
-import { RevocationRequestHandler } from 'https://deno.land/x/authlete_deno_oak@v1.0.2/mod.ts';
+import { RevocationRequestHandler } from 'https://deno.land/x/authlete_deno_oak@v1.0.3/mod.ts';
 import { Context } from 'https://deno.land/x/oak@v10.2.0/mod.ts';
 import { BaseEndpoint } from './base_endpoint.ts';
 
