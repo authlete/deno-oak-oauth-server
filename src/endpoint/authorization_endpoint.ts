@@ -16,12 +16,12 @@
 import {
     AuthleteApi, AuthorizationPageModel, AuthorizationRequest, AuthorizationResponse,
     isEmpty, Prompt
-} from 'https://deno.land/x/authlete_deno@v1.2.9/mod.ts';
+} from 'https://deno.land/x/authlete_deno@v1.2.10/mod.ts';
 import {
     AuthorizationDecisionHandler, AuthorizationRequestErrorHandler,
     getFormParametersAsString, getQueryParametersAsString,
     internalServerErrorOnApiCallFailure, NoInteractionHandler, okHtml
-} from 'https://deno.land/x/authlete_deno_oak@v1.0.2/mod.ts';
+} from 'https://deno.land/x/authlete_deno_oak@v1.0.3/mod.ts';
 import { Context } from 'https://deno.land/x/oak@v10.2.0/mod.ts';
 import { Session } from 'https://deno.land/x/oak_sessions@v3.2.5/mod.ts';
 import { NoInteractionHandlerSpiImpl } from '../impl/no_interaction_handler_spi_impl.ts';

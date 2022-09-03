@@ -13,7 +13,7 @@
 // limitations under the License.
 
 
-import { Address } from 'https://deno.land/x/authlete_deno@v1.2.9/mod.ts';
+import { Address } from 'https://deno.land/x/authlete_deno@v1.2.10/mod.ts';
 import { UserEntity } from './user_entity.ts';
 
 
