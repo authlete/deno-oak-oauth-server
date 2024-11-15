@@ -131,7 +131,7 @@ Contact Form : https://www.authlete.com/contact/
 [AuthleteOverview]:       https://www.authlete.com/developers/overview/
 [AuthleteDeno]:           https://github.com/authlete/authlete-deno
 [AuthleteDenoOak]:        https://github.com/authlete/authlete-deno-oak
-[AuthleteSignUp]:         https://login.authlete.com/signup
+[AuthleteSignUp]:         https://console.authlete.com/register
 [DenoOakResourceServer]:  https://github.com/authlete/deno-oak-resource-server
 [DeveloperConsole]:       https://www.authlete.com/developers/cd_console/
 [ImplicitFlow]:           https://tools.ietf.org/html/rfc6749#section-4.2
